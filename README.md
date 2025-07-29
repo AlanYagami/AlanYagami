@@ -164,22 +164,6 @@
 ---
 
 <div align="center">
-  
-  ### 🎮 Fun Zone
-  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlanYagami&repo=AlanYagami&theme=tokyonight&border_radius=10" alt="Special Repo"/>
-  
-  <br/>
-  
-  ### 🎵 Spotify Playing
-  
-  ![Spotify](https://img.shields.io/badge/Spotify-Currently%20Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
-  
-</div>
-
----
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   
   <h3>
