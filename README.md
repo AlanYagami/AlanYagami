@@ -37,9 +37,21 @@
   <img src="https://skillicons.dev/icons?i=spring,react,django&theme=dark" />
 </div>
 
-### 🗄️ Base de Datos y Herramientas
+### 🗄️ Base de Datos
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+</div>
+
+### 🛠️ Herramientas de Desarrollo
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+</div>
+
+### 💻 IDEs y Editores
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio&theme=dark" />
+  <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white" alt="DataGrip"/>
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans"/>
 </div>
 
 ### 📱 Desarrollo Móvil
@@ -139,19 +151,12 @@
 ## 🐍 Contribuciones
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlanYagami/AlanYagami/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlanYagami/AlanYagami/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlanYagami/AlanYagami/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github.com/AlanYagami/AlanYagami/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  
+  <p><em>🔄 Snake animation se está configurando...</em></p>
+  
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Coding GIF"/>
 </div>
-
----
-
-## 📈 Actividad Semanal
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
