@@ -1,134 +1,198 @@
 # 👋 ¡Hola! Soy Alan Manuel Benítez García
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+👋+Soy+Alan+Manuel;+Desarrollador+de+Software+🚀;+Estudiante+apasionado+💻;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+👋+Soy+Alan+Manuel;+Desarrollador+de+Software+🚀;+Estudiante+apasionado+💻;Full+Stack+Developer+⚡;" />
 </div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<br/>
+---
 
 ## 🎯 Sobre mí
 
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  <strong>Estudiante de Desarrollo de Software</strong> apasionado por crear soluciones innovadoras
 </div>
 
-- 📍 **Ubicación:** México
-- 🎓 Siempre aprendiendo nuevas tecnologías
-- 💡 Me encanta resolver problemas complejos
+- 🎓 **Estudiante de Desarrollo de Software** apasionado por crear soluciones innovadoras
+- 📍 **Ubicación:** México :mexico:
+- 💡 Me encanta resolver problemas complejos y crear código limpio
 - 🚀 Enfocado en desarrollo Full Stack
+- 🌱 Siempre aprendiendo nuevas tecnologías
+- ⚡ **Fun fact:** Me gusta el gaming y el anime :video_game:
 
-<br/>
+---
 
 ## 🛠️ Tecnologías y Herramientas
 
 ### 💻 Lenguajes de Programación
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,kotlin,html,css&theme=dark" />
 </div>
 
 ### 🚀 Frameworks y Librerías
 <div align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://skillicons.dev/icons?i=spring,react,django&theme=dark" />
 </div>
 
 ### 🗄️ Base de Datos y Herramientas
 <div align="center">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" />
 </div>
 
-<br/>
+### 📱 Desarrollo Móvil
+<div align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+</div>
+
+---
 
 ## 📊 Estadísticas de GitHub
 
+<details>
+<summary>📈 Click para ver mis estadísticas</summary>
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanYagami&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanYagami&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanYagami&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanYagami&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlanYagami&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlanYagami&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlanYagami&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlanYagami&theme=tokyo-night&hide_border=true&border_radius=10" alt="GitHub Activity Graph"/>
 </div>
 
-<br/>
+</details>
+
+---
 
 ## 🚀 Mis Repositorios Destacados
 
 <div align="center">
-  <p>¡Explora todos mis proyectos! Cada uno representa un paso en mi viaje de aprendizaje:</p>
+  <p>:rocket: ¡Explora todos mis proyectos! Cada uno representa un paso en mi viaje de aprendizaje :books:</p>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlanYagami&theme=radical" alt="Repos por lenguaje"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlanYagami&theme=radical" alt="Lenguajes más usados"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlanYagami&theme=tokyonight" alt="Repos por lenguaje"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlanYagami&theme=tokyonight" alt="Lenguajes más usados"/>
   
-  <br/>
+  <br/><br/>
   
   <a href="https://github.com/AlanYagami?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Ver_Todos_Mis_Repositorios-100000?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorios"/>
+    <img src="https://img.shields.io/badge/Ver_Todos_Mis_Repositorios-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Ver repositorios"/>
   </a>
 </div>
 
-<br/>
+---
 
-## 🏆 Trofeos de GitHub
+## 🏆 Trofeos y Logros
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlanYagami&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AlanYagami&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
-<br/>
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=AlanYagami&color=blueviolet&style=for-the-badge)
+  ![Followers](https://img.shields.io/github/followers/AlanYagami?style=for-the-badge&color=blue)
+  ![GitHub Stars](https://img.shields.io/github/stars/AlanYagami?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow)
+  
+</div>
+
+---
+
+## 💡 Lo que estoy aprendiendo actualmente
+
+<div align="center">
+  
+  ![Learning](https://img.shields.io/badge/Learning-Spring_Security-green?style=for-the-badge&logo=spring&logoColor=white)
+  ![Learning](https://img.shields.io/badge/Learning-Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+  ![Learning](https://img.shields.io/badge/Learning-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
+  
+</div>
+
+---
 
 ## 🤝 ¡Conectemos!
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  <p>Siempre estoy abierto a colaborar en proyectos interesantes y aprender de otros desarrolladores.</p>
+  
+  <p>:handshake: Siempre estoy abierto a colaborar en proyectos interesantes y aprender de otros desarrolladores :bulb:</p>
   
   <a href="https://github.com/AlanYagami" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:tu-email@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/tu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
-<br/>
+---
 
 ## 🐍 Contribuciones
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AlanYagami/AlanYagami/output/snake.svg" alt="Snake animation" />
-  
-  <br/><br/>
-  
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AlanYagami.AlanYagami&" alt="Visitor Count"/>
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlanYagami/AlanYagami/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlanYagami/AlanYagami/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlanYagami/AlanYagami/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
-<br/>
+---
+
+## 📈 Actividad Semanal
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## 💭 Cita del Día
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
+</div>
 
 ---
 
 <div align="center">
+  
+  ### 🎮 Fun Zone
+  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlanYagami&repo=AlanYagami&theme=tokyonight&border_radius=10" alt="Special Repo"/>
+  
+  <br/>
+  
+  ### 🎵 Spotify Playing
+  
+  ![Spotify](https://img.shields.io/badge/Spotify-Currently%20Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  
   <h3>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
     ¡Gracias por visitar mi perfil! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   </h3>
-  <p>💻 "El código es poesía escrita en lógica" 💻</p>
+  
+  <p>:computer: <em>"El código es poesía escrita en lógica"</em> :computer:</p>
+  
+  <p>:star2: <strong>¡Dale una estrella a mis repos si te gustan!</strong> :star2:</p>
+  
+  ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
+  ![Mexico](https://img.shields.io/badge/Made%20in-México-green?style=for-the-badge&logo=mexico)
+  
 </div>
