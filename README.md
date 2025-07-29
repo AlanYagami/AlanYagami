@@ -33,27 +33,27 @@
 </div>
 
 ### 🚀 Frameworks y Librerías
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=spring,react,django&theme=dark" />
 </div>
 
 ### 🗄️ Base de Datos
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 </div>
 
 ### 🛠️ Herramientas de Desarrollo
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" />
 </div>
 
 ### 💻 IDEs y Editores
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio&theme=dark" />
 </div>
 
 ### 📱 Desarrollo Móvil
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=react&theme=dark" />
 </div>
 
