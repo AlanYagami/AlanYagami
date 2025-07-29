@@ -65,16 +65,16 @@
 <summary>📈 Click para ver mis estadísticas</summary>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanYagami&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanYagami&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanYagami&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanYagami&layout=compact&langs_count=8&theme=radical&border_radius=10"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlanYagami&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlanYagami&theme=radical&hide_border=false&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlanYagami&theme=tokyo-night&hide_border=true&border_radius=10" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlanYagami&theme=redical&hide_border=true&border_radius=10" alt="GitHub Activity Graph"/>
 </div>
 
 </details>
