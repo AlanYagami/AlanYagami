@@ -39,7 +39,7 @@
 
 ### 🗄️ Base de Datos
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mariadb,mongo&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongo&theme=dark" />
 </div>
 
 ### 🛠️ Herramientas de Desarrollo
